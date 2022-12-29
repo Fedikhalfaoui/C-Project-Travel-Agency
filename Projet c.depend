@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1672357170 source:f:\projects\travel manager fedi projet c\consolecolor.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<stdio.h>
+	<stdlib.h>
+
+1672357502 source:f:\projects\travel manager fedi projet c\functions.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1672357501 source:f:\projects\travel manager fedi projet c\main.c
+	<string.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1672349697 source:f:\projects\travel manager fedi projet c\functions2.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+

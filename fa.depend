@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1672250243 source:f:\projects\fa\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1672250089 source:f:\projects\fa\functions.c
+	<stdio.h>
+	<stdlib.h>
+
+1672224477 source:f:\projects\fa\consolecolor.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<stdio.h>
+	<stdlib.h>
+
+1672233373 f:\projects\fa\functions.c
+	<stdio.h>
+	<stdlib.h>
+
+1672224477 source:f:\projects\travel manager fedi projet c\consolecolor.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<stdio.h>
+	<stdlib.h>
+
+1672254916 source:f:\projects\travel manager fedi projet c\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1672255407 source:f:\projects\travel manager fedi projet c\functions.c
+	<stdio.h>
+	<stdlib.h>
+
