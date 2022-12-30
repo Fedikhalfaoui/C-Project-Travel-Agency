@@ -63,6 +63,8 @@ Quit: Exit the app
     e.g : X118 Tunis Japan 07/02/2022  20h 23h   3200$
     Hotels : {Location (name), Hotelname(name), Price(...$/night) }
     e.g : Tunis Mouradi 300$/night .
-          
+ # Made by :
+    Fadi khalfaoui
+    Hedil Zomita
       
     
