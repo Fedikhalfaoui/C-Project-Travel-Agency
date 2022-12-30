@@ -35,7 +35,7 @@ Quit: Exit the app
       The user is prompted to enter a Date. If found, The flights with the specific date will be shown with
       an option to see all the available hotels in their destination.
 # Find Hotels: 
-      The user is prompted to enter a Location. If found, The Hotels in the specific destination will be shown with     
+      The user is prompted to enter a Location. If found, The Hotels in the specific destination will be shown .     
 # Delete Flight :
       The user is prompted to enter a flight Id . if found , the flight  will be deleted .
 # Delete Hotel :
