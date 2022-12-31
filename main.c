@@ -168,7 +168,7 @@ int main()
         printf("        -  Hotels             :{Location (name) , Name(name) , Price(...$/night)         }\n");
 
 
-        printf("                                                                     *** Enter 8 if u want to go back to main menu ***\n");
+        printf("                                                                     *** Enter 12 if u want to go back to main menu ***\n");
         break;
      case 12:
 printf("                ________________________________________________________________________________________\n");
